@@ -1,0 +1,281 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(11, 5, 44);
+}
+
+.image img {
+    height: 600px;
+    width: 30%;
+}
+
+.header h1 {
+    color: white;
+    margin-left: 50%;
+    margin-top: -420px;
+    font-size: 100px;
+    font-family: cinzel;
+}
+
+.header p {
+    color: #0ef;
+    padding-left: 55%;
+    font-family: Montserrat;
+    font-size: 70px;
+}
+
+.contact {
+    margin-top: 200px;
+    margin-right: 65%;
+    padding: 40px;
+    font-size: 20px;
+    font-family: cinzel;
+    border-radius: 0px 80px 80px 0px;
+    background-color: black;
+    color: #0ef;
+}
+
+.contact h2 {
+    margin-left: 30%;
+}
+
+.phone h3 {
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 30px;
+    color: white;
+}
+
+.phone p {
+    color: royalblue;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.email h3 {
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 40px;
+    color: white;
+}
+
+.email p {
+    color: royalblue;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.address h3 {
+    font-size: 50px;
+    margin-left: 100px;
+    color: white;
+    margin-top: 40px;
+}
+
+.address p {
+    color: royalblue;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.expertise {
+    margin-top: 50px;
+    margin-right: 65%;
+    padding: 40px;
+    font-size: 20px;
+    font-family: cinzel;
+    border-radius: 0px 80px 80px 0px;
+    background-color: black;
+    color: #0ef;
+}
+
+.expertise h2 {
+    margin-left: 30%;
+}
+
+.li {
+    margin-left: 100px;
+    margin-top: 40px;
+    color: royalblue;
+    font-size: 27px;
+}
+
+.reference {
+    margin-top: 50px;
+    margin-right: 65%;
+    padding: 40px;
+    font-size: 20px;
+    font-family: cinzel;
+    border-radius: 0px 80px 80px 0px;
+    background-color: black;
+    color: #0ef;
+}
+
+.reference h2 {
+    margin-left: 30%;
+}
+
+.ref h3 {
+    font-size: 50px;
+    margin-left: 100px;
+    color: white;
+    margin-top: 40px;
+}
+
+.ref p {
+    color: royalblue;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.about {
+    background-color: black;
+    margin-top: -71%;
+    margin-left: 50%;
+    border-radius: 80px 0px 0px 80px;
+    font-size: 20px;
+}
+
+.about h2 {
+    margin-left: 10%;
+}
+
+.about h2 {
+    color: #0ef;
+    font-family: cinzel;
+    padding: 40px;
+}
+
+.para {
+    margin-top: 40px;
+    margin-left: 54%;
+}
+
+.para p {
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-family: Montserrat;
+}
+
+.exp {
+    background-color: black;
+    margin-top: 4%;
+    margin-left: 50%;
+    border-radius: 80px 0px 0px 80px;
+    font-size: 20px;
+}
+
+.exp h2 {
+    color: #0ef;
+    font-family: cinzel;
+    padding: 40px;
+}
+
+.company {
+    font-size: 40px;
+    margin-left: 55%;
+    margin-top: 50px;
+    color: white;
+}
+
+.exp h2 {
+    margin-left: 10%;
+}
+
+.company .p1 {
+    padding: 20px;
+    color: rgb(255, 238, 0);
+}
+
+.company .p2 {
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    font-family: Montserrat;
+}
+
+.company2 {
+    font-size: 40px;
+    margin-left: 55%;
+    margin-top: 50px;
+    color: white;
+}
+
+.company2 .p1 {
+    padding: 20px;
+    color: rgb(255, 238, 0);
+}
+
+.company2 .p2 {
+    color: white;
+    font-size: 18px;
+    letter-spacing: 2px;
+    margin-left: 20px;
+    font-family: Montserrat;
+}
+
+.edu {
+    background-color: black;
+    margin-top: 4%;
+    margin-left: 50%;
+    border-radius: 80px 0px 0px 80px;
+    font-size: 20px;
+}
+
+.edu h2 {
+    margin-left: 10%;
+}
+
+.edu h2 {
+    color: #0ef;
+    font-family: cinzel;
+    padding: 40px;
+}
+
+.deg {
+    margin-left: 55%;
+    margin-top: 40px;
+}
+
+.deg .p1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 35px;
+    color: rgb(255, 238, 0);
+}
+
+.deg h3 {
+    color: white;
+    font-size: 35px;
+}
+
+.deg .p3 {
+    color: white;
+    margin-top: -150px;
+    margin-left: 300px;
+    font-family: Montserrat;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.footer {
+    margin-top: 50px;
+}
+
+.footer h2 {
+    color: white;
+    background-color: black;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-family: cinzel;
+    text-align: center;
+}
